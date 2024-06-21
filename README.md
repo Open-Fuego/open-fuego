@@ -1,10 +1,12 @@
 # Open Fuego Webtext Generator
 
-Welcome to Open Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. 
+Welcome to Open Fuego Webtext Generator! This tool allows you to mix and match code blocks to quickly build websites similar to Adobe Express (Formerly Adobe Spark). All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. 
 
-Watch the [Webtext Generator video tutorial](https://www.youtube.com/watch?v=QzMJtLUncIg).
+Watch the [Webtext Generator video tutorial](https://www.youtube.com/watch?v=QzMJtLUncIg) to learn how it works. 
 
 We recommend you begin with one of our starter programs before using this one. 
+
+Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
     
     
 ##Get started!
@@ -34,13 +36,12 @@ Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.
 
 
 
-## Phoenix code editor 
+## Code editors 
 
-You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source.
+You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source. You can download a version or use the online editor. 
 
 
-### Phoenix Code (Download or use Online)
-[See Video Tutorial](https://youtu.be/j8o506PZ1H8)
+### Phoenix Code (Free and Open-Source for Mac / Windows / Linux. Download or use Online)
 
 1. Go to [Phoenix Code](https://phcode.dev). 
 1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
@@ -49,9 +50,7 @@ You have a range of code editor options depending on your operating system, but 
 
 
 
-## Support for other code editors
-
-### Pulsar (Open-Source for Mac / Windows / Linux)
+### Pulsar (Free and Open-Source for Mac / Windows / Linux)
 [See Video Tutorial](https://youtu.be/dKcJm4V53ig)
 
 1. Download "**[Pulsar](https://pulsar-edit.dev)**" Pulsar comes with "Spell Check" already installed. 
@@ -62,6 +61,8 @@ You have a range of code editor options depending on your operating system, but 
 	* select the package built by "**HARMSK**." Click "**Install**."
 1. Adjust text wrapping 
 	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your view tab.)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Visual Studio Code (Mac / Windows /Linux)
 [See Video Tutorial](https://youtu.be/1onqFbSgeQo)
